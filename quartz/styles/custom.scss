@@ -1,3 +1,16 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Cyberpunk neon glow effects
+
+h1, h2, h3 {
+  text-shadow: 0 0 7px rgba(210, 200, 255, 0.5), 0 0 20px rgba(210, 200, 255, 0.25);
+}
+
+a {
+  text-shadow: 0 0 5px rgba(210, 200, 255, 0.4);
+  transition: text-shadow 0.2s ease;
+
+  &:hover {
+    text-shadow: 0 0 10px rgba(210, 200, 255, 0.6), 0 0 30px rgba(210, 200, 255, 0.35);
+  }
+}
