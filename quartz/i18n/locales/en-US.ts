@@ -22,7 +22,7 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
+      title: "backlinks",
       noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
@@ -33,13 +33,13 @@ export default {
       title: "Reader mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "created with",
     },
     graph: {
-      title: "Graph View",
+      title: "graph view",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -50,11 +50,11 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "search",
+      searchBarPlaceholder: "search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "table of contents",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,

@@ -1,4 +1,4 @@
-import { Date, getDate } from "./Date"
+import { formatDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -30,7 +30,26 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        const created = fileData.dates.created
+        const modified = fileData.dates.modified
+        // only show both if they differ by more than a day
+        const showBoth =
+          created &&
+          modified &&
+          Math.abs(created.getTime() - modified.getTime()) > 86400000
+
+        if (showBoth) {
+          segments.push(
+            <span>
+              created {formatDate(created, cfg.locale)} · modified{" "}
+              {formatDate(modified, cfg.locale)}
+            </span>,
+          )
+        } else if (modified) {
+          segments.push(<span>{formatDate(modified, cfg.locale)}</span>)
+        } else if (created) {
+          segments.push(<span>{formatDate(created, cfg.locale)}</span>)
+        }
       }
 
       // Display reading time if enabled
