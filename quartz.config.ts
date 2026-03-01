@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Citations({
-        bibliographyFile: "./content/references.bib",
+        bibliographyFile: "./references.bib",
         linkCitations: true,
       }),
     ],

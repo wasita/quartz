@@ -45,4 +45,4 @@ shared reality is both a source of human strength (enabling cooperation, trust, 
 
 # connections
 
-- synthesis: [[shared-reality]]
+- synthesis: [[synthesis/shared-reality]]

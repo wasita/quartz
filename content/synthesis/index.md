@@ -6,4 +6,4 @@ a place to integrate findings and ideas across multiple literature sources aroun
 
 ## topics
 
-- [[shared-reality]] — shared reality theory and its implications for social cognition
+- [[synthesis/shared-reality]] — shared reality theory and its implications for social cognition
