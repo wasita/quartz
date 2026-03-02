@@ -6,4 +6,4 @@ individual reading notes on papers, books, and other sources. each note is named
 
 ## notes
 
-- [[higgins2021shared]] — shared reality (Higgins, 2021)
+- [[2021-higgins-shared-reality]] — shared reality (Higgins, 2021)
