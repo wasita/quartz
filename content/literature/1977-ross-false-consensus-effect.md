@@ -1,5 +1,5 @@
 ---
-title: "The "false consensus effect": An egocentric bias in social perception and attribution processes"
+title: "The 'false consensus effect': An egocentric bias in social perception and attribution processes"
 tags:
   - literature
 citekey: ross1977false
