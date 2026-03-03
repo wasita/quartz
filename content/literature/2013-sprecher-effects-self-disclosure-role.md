@@ -14,8 +14,6 @@ authors: "Sprecher, Susan and Treger, Stanislav and Wondra, Joshua D"
 
 sprecher et al. examine whether discloser vs. listener role differentially affects liking. listeners report greater liking and closeness after initial one-way disclosure, but differences disappear after role reversal.
 
-full citation: [@sprecher2013effects]
-
 ---
 
 # topic and thesis

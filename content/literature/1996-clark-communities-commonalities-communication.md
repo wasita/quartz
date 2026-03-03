@@ -14,8 +14,6 @@ authors: "Clark, Herbert H"
 
 clark argues that communication depends on common ground and that communities are the primary source. the chapter distinguishes communal common ground (from community membership) from personal common ground (from direct interaction) and treats language as a coordination device grounded in community-level shared knowledge.
 
-full citation: [@clark1996]
-
 ---
 
 # topic and thesis

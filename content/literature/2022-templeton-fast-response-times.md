@@ -14,8 +14,6 @@ authors: "Templeton, Emma M and Chang, Luke J and Reynolds, Elizabeth A and LeBe
 
 templeton et al. demonstrate that conversational response time is a simple, robust, and honest signal of social connection. in round-robin studies, faster inter-turn response times predicted greater felt connection, and sub-250ms responses served as honest signals readable by both participants and eavesdroppers.
 
-full citation: [@templeton2022]
-
 ---
 
 # topic and thesis

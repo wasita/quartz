@@ -14,8 +14,6 @@ authors: "Boothby, Erica J and Clark, Margaret S and Bargh, John A"
 
 Boothby, Clark, and Bargh demonstrate that sharing an experience with another person — even silently and without explicit communication — amplifies the subjective intensity of that experience. both pleasant and unpleasant sensory experiences (chocolate tasting) were rated more intensely when a co-present person was simultaneously having the same experience.
 
-full citation: [@boothby2014]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "McPherson, Miller and Smith-Lovin, Lynn and Cook, James M"
 
 mcpherson, smith-lovin, and cook conduct a comprehensive review of homophily - the principle that contact between similar people occurs at a higher rate than among dissimilar people. they distinguish baseline (structural) from inbreeding (choice) homophily and catalog the dimensions on which it operates.
 
-full citation: [@mcpherson2001]
-
 ---
 
 # topic and thesis

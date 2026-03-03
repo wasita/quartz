@@ -15,8 +15,6 @@ draft: true
 
 Nickerson provides a comprehensive review synthesizing evidence that people routinely use their own knowledge as a default anchor when constructing models of what others know, leading to systematic overestimation of shared knowledge. the paper unifies previously separate phenomena — false consensus, hindsight bias, curse of knowledge — under a single mechanism of self-anchored knowledge imputation with insufficient adjustment.
 
-full citation: [@nickerson1999]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Rossignac-Milon, Maya and Higgins, E Tory"
 
 rossignac-milon and higgins propose that close relationships are epistemic partnerships in which partners jointly satisfy needs to make sense of the world. they outline four cumulative phases through which shared reality deepens in close relationships: shared feelings, shared practices, shared coordination, and shared identity.
 
-full citation: [@rossignac2018epistemic]
-
 ---
 
 # topic and thesis

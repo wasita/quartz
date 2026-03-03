@@ -14,8 +14,6 @@ authors: "Gershman, Samuel J and Pouncy, Hillard Thomas and Gweon, Hyowon"
 
 gershman et al. propose that humans infer latent group structure of social influence - clustering based on shared choice patterns - rather than relying on dyadic similarity alone. a bayesian latent-grouping model is validated across five experiments.
 
-full citation: [@gershman2017learning]
-
 ---
 
 # topic and thesis

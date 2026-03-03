@@ -14,8 +14,6 @@ authors: "Hawkins, Robert D and Franke, Michael and Frank, Michael C and Goldber
 
 Hawkins and colleagues introduce CHAI (continual hierarchical adaptation through inference), a hierarchical bayesian theory reconciling the tension between stable linguistic conventions and flexible partner-specific meaning-making. meaning is treated as a latent variable jointly inferred across two nested timescales: rapid partner-specific common ground within dyads, and stable community-wide conventions abstracted across many partners.
 
-full citation: [@hawkins2023partners]
-
 ---
 
 # topic and thesis

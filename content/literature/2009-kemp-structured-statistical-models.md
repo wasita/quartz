@@ -14,8 +14,6 @@ authors: "Kemp, Charles and Tenenbaum, Joshua B"
 
 kemp and tenenbaum present a bayesian framework for inductive reasoning incorporating structured background knowledge (taxonomic trees, spatial maps, causal graphs). four models account for distinctive patterns of human property induction across domains.
 
-full citation: [@kemp2009structured]
-
 ---
 
 # topic and thesis

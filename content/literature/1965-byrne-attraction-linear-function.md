@@ -14,8 +14,6 @@ authors: "Byrne, Donn and Nelson, Don"
 
 byrne and nelson use the bogus stranger paradigm to formalize the relationship between attitude similarity and interpersonal attraction. attraction is a positive linear function of the proportion of similar attitudes (y = 5.44x + 6.62), grounded in reinforcement theory.
 
-full citation: [@byrne1965]
-
 ---
 
 # topic and thesis

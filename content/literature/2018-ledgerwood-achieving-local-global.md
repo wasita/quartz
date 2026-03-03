@@ -14,8 +14,6 @@ authors: "Ledgerwood, Alison and Wang, Y Andre"
 
 ledgerwood and wang review how psychological distance from an attitude object determines whether people align with local, specific social influences or broader group-level norms in the service of achieving shared reality.
 
-full citation: [@ledgerwood2018achieving]
-
 ---
 
 # topic and thesis

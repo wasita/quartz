@@ -14,8 +14,6 @@ authors: "Skorinko, Jeanine L M and Sinclair, Stacey"
 
 skorinko and sinclair review how affiliative social tuning - the spontaneous alignment of implicit attitudes with an interaction partner's apparent views when one desires to get along - creates shared reality at the level of implicit prejudice. implicit prejudice measured via the IAT adjusts to mirror a partner's presumed attitudes when affiliative motivation is high.
 
-full citation: [@skorinko2018shared]
-
 ---
 
 # topic and thesis

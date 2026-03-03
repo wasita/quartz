@@ -14,8 +14,6 @@ authors: "Stalnaker, Robert"
 
 Stalnaker offers a reductive account of common ground, defining it as a complex propositional attitude — specifically, mutual acceptance — built iteratively out of the individual attitudes of conversational participants. the paper clarifies the relationship between presupposition and common ground, introducing the notion of "acceptance" as broader than belief, and argues that the context of a conversation is best modeled as the set of propositions all participants mutually accept for the purposes of the conversation.
 
-full citation: [@stalnaker2002common]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Collins, Nancy L and Miller, Lynn Carol"
 
 collins and miller meta-analyze 94 studies and identify three distinct disclosure-liking effects: intimate disclosers are liked more, people disclose more to liked others, and disclosing increases liking for the recipient.
 
-full citation: [@collins1994]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Rentfrow, Peter J and Gosling, Samuel D"
 
 rentfrow and gosling demonstrate that music preferences carry valid personality information and that observers can form accurate, consensual impressions of targets' personalities from music preferences alone at zero acquaintance. they also show music is the most frequent topic in get-acquainted conversations, suggesting it functions as a key medium for personality communication.
 
-full citation: [@rentfrow2006message]
-
 ---
 
 # topic and thesis

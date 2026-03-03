@@ -14,8 +14,6 @@ authors: "Bebermeier, Sarah and Echterhoff, Gerald and Bohner, Gerd and Hellmann
 
 bebermeier et al. show that shared reality created about one target generalizes to evaluations of novel related targets, but only under high audience commonality, active recollection, and target similarity.
 
-full citation: [@bebermeier2015generalization]
-
 ---
 
 # topic and thesis

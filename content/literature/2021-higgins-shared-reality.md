@@ -15,8 +15,6 @@ authors: "Higgins, E. Tory"
 
 Higgins presents a comprehensive theory of shared reality — the experience of having in common with others' inner states about the world. he argues that shared reality is a fundamental human motivation that shapes cognition, emotion, and social behavior.
 
-full citation: [@higgins2021shared]
-
 ---
 
 # topic and thesis

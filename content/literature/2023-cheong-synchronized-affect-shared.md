@@ -14,8 +14,6 @@ authors: "Cheong, Jin Hyun and Molani, Zainab and Sadhukha, Sushmita and Chang, 
 
 cheong et al. measured facial expression synchrony, EDA synchrony, and character impression similarity in dyads co-watching TV. all four indicators loaded onto a latent shared-experience factor that predicted self-reported social connection.
 
-full citation: [@cheong2023]
-
 ---
 
 # topic and thesis

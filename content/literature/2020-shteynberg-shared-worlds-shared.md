@@ -14,8 +14,6 @@ authors: "Shteynberg, Garriy and Hirsh, Jacob B and Bentley, R Alexander and Gar
 
 shteynberg and colleagues propose a theory of collective learning in which collective attention — perceiving that group members are co-attending to the same information — functions as a signal of common knowledge and amplifies cognitive processing of that information. the theory explains how groups build mutually known representations, beliefs, and norms through co-attention.
 
-full citation: [@shteynberg2020shared]
-
 ---
 
 # topic and thesis

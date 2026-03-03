@@ -14,8 +14,6 @@ authors: "Fawcett, Christine A and Markson, Lori"
 
 fawcett and markson show that two-year-olds identify when another person shares their preference and use this to make inferences about new objects. children selected items favored by a preference-sharing actor but did not generalize across unrelated categories.
 
-full citation: [@fawcett2010children]
-
 ---
 
 # topic and thesis

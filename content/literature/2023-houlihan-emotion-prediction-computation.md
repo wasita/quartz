@@ -14,8 +14,6 @@ authors: "Houlihan, Sean Dae and Kleiman-Weiner, Max and Hewitt, Luke B and Tene
 
 houlihan et al. model emotion prediction as computation over a generative theory of mind: observers infer mental states via inverse planning, compute appraisals, then map to emotions. the model matches human predictions of 20 distinct emotions in a social dilemma context, with social preferences (equity, reputation) essential.
 
-full citation: [@houlihan2023emotion]
-
 ---
 
 # topic and thesis

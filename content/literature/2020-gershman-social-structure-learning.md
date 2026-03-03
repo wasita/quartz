@@ -14,8 +14,6 @@ authors: "Gershman, Samuel J and Cikara, Mina"
 
 gershman and cikara formalize social-structure learning - inferring latent group membership from observed behavior - as a bayesian inference problem. experiments with adults and children support the framework and rule out simpler dyadic similarity accounts.
 
-full citation: [@gershman2020socialstructure]
-
 ---
 
 # topic and thesis

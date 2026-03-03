@@ -14,8 +14,6 @@ authors: "Wheatley, Thalia and Thornton, Mark A and Stolk, Arjen and Chang, Luke
 
 wheatley et al. argue psychology has been limited by its focus on isolated individuals. the most important determinants of development, mental health, and cognition emerge from social interaction. the paper surveys emerging tools for studying interacting minds.
 
-full citation: [@wheatley2024]
-
 ---
 
 # topic and thesis

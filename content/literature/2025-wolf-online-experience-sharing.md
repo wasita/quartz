@@ -14,8 +14,6 @@ authors: "Wolf, Wouter and Dotson, Kayley"
 
 wolf and dotson tested whether passively co-watching a video online without communication fosters social bonding. equivalence tests showed no difference between co-watching and solo-watching, suggesting non-communicative online co-presence fails to activate bonding mechanisms.
 
-full citation: [@wolf2025]
-
 ---
 
 # topic and thesis

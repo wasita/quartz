@@ -14,8 +14,6 @@ authors: "Ames, Daniel R"
 
 ames proposes and tests a similarity-contingency model: perceivers use projection (self as model) for similar targets and stereotyping (group membership) for dissimilar targets. perceived similarity acts as a switch. three experiments support the model.
 
-full citation: [@ames2004toolkit]
-
 ---
 
 # topic and thesis

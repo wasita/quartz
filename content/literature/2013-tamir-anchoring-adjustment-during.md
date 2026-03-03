@@ -14,8 +14,6 @@ authors: "Tamir, Diana I and Mitchell, Jason P"
 
 tamir and mitchell test whether social inference follows anchoring-and-adjustment from the self. greater self-other discrepancy predicts longer reaction times for similar but not dissimilar targets, consistent with serial adjustment from a self-anchor.
 
-full citation: [@tamir2013anchoring]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Thornton, Mark A and Tamir, Diana I"
 
 thornton and tamir synthesize a research program showing that social knowledge about actions, mental states, and traits is organized along parsimonious psychological dimensions, and that these dimensional maps are specifically structured to support accurate prediction of others' future social behavior and mental states.
 
-full citation: [@thornton2021organization]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Murthy, Sonia K and Griffiths, Thomas L and Hawkins, Robert D"
 
 murthy et al. show that variability in lexical priors shapes communication difficulty and success. individuals represent their own uncertainty and use it to predict partner alignment; initial failures from high uncertainty are rapidly overcome through ad hoc convention formation.
 
-full citation: [@murthy2022shades]
-
 ---
 
 # topic and thesis

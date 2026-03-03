@@ -14,8 +14,6 @@ authors: "Ross, Lee and Greene, David and House, Pamela"
 
 Ross, Greene, and House introduced and empirically demonstrated the "false consensus effect" — the tendency for people to overestimate how widely others share their own beliefs, choices, and behaviors. across four studies, they showed that individuals perceive their own responses as the modal response and make more extreme dispositional inferences about those who respond differently.
 
-full citation: [@ross1977false]
-
 ---
 
 # topic and thesis

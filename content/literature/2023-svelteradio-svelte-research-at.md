@@ -14,8 +14,6 @@ authors: "SvelteRadio"
 
 a svelte radio podcast episode featuring wasita and eshin from the cosanlab at dartmouth discussing how they use svelte to build interactive behavioral research experiments, including multiplayer paradigms with firebase synchronization.
 
-full citation: [@svelteradio2023]
-
 ---
 
 # topic and thesis

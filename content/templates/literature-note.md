@@ -13,8 +13,6 @@ draft: true
 >[!example] key terms
 >
 
-full citation: [@{{citekey}}]
-
 ---
 
 # topic and thesis

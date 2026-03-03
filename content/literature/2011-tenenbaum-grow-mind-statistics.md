@@ -14,8 +14,6 @@ authors: "Tenenbaum, Joshua B and Kemp, Charles and Griffiths, Thomas L and Good
 
 Tenenbaum and colleagues propose that human cognition achieves rich, generalizable knowledge from sparse data by performing probabilistic inference over hierarchies of flexibly structured representations. the paper positions hierarchical bayesian models as a unifying account of learning, cognitive development, and a path toward more humanlike machine learning.
 
-full citation: [@tenenbaum2011grow]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Echterhoff, Gerald and Higgins, E Tory and Levine, John M"
 
 echterhoff, higgins, and levine introduce a systematic conceptualization of shared reality as the experience of commonality in inner states about a target with another person or group. they outline four defining features, distinguish shared reality from related constructs (common ground, empathy, theory of mind), and review evidence from the saying-is-believing paradigm.
 
-full citation: [@echterhoff2009shared]
-
 ---
 
 # topic and thesis

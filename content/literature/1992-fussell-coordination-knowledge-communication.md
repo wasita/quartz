@@ -14,8 +14,6 @@ authors: "Fussell, Susan R and Krauss, Robert M"
 
 fussell and krauss investigated how speakers account for what they assume listeners know when formulating referring expressions in a referential communication task. speakers were reasonably accurate at estimating stimulus recognizability for others but showed an egocentric bias toward their own knowledge, and message informativeness varied inversely with perceived addressee familiarity — though effects were weaker than predicted.
 
-full citation: [@fussell1992coordination]
-
 ---
 
 # topic and thesis

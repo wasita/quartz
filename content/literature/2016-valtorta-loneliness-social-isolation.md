@@ -14,8 +14,6 @@ authors: "Valtorta, Nicole K and Kanaan, Mona and Gilbody, Simon and Ronzi, Sara
 
 valtorta et al. meta-analyzed longitudinal studies showing approximately 29% increased CHD risk and 32% increased stroke risk associated with poor social relationships, comparable to anxiety and job strain.
 
-full citation: [@valtorta2016]
-
 ---
 
 # topic and thesis

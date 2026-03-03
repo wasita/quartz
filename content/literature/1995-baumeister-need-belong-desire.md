@@ -14,8 +14,6 @@ authors: "Baumeister, Roy F and Leary, Mark R"
 
 baumeister and leary propose that humans have a fundamental need to belong - a drive to form and maintain lasting, positive relationships. they review broad evidence showing this need shapes emotion, cognition, behavior, and health.
 
-full citation: [@baumeister1995]
-
 ---
 
 # topic and thesis

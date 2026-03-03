@@ -14,8 +14,6 @@ authors: "Bates, Douglas and M\"a"
 
 bates et al. describe the lme4 package for R, which fits linear mixed-effects models via ML or REML. the paper details model structure, formula interface, profiled likelihood, and constrained optimization. lme4 has become the standard tool for mixed-effects modeling in the social sciences.
 
-full citation: [@bates2015fitting]
-
 ---
 
 # topic and thesis

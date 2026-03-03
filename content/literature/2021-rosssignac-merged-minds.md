@@ -16,8 +16,6 @@ draft: true
 
 Rossignac-Milon et al. introduce generalized shared reality (SR-G) as a novel relational construct: the subjective experience of sharing inner states about the world in general with a specific interaction partner. across eleven studies using daily diary, online dyadic conversation, and face-to-face experimental paradigms, they demonstrate that SR-G is empirically distinct from established relationship constructs, predicts both social connection and epistemic certainty, has observable behavioral signatures, and motivates couples to protect it when threatened.
 
-full citation: [@rossignac2021mergedminds]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Echterhoff, Gerald and Schmalbach, Bjarne"
 
 echterhoff and schmalbach review how shared reality is constructed through interpersonal communication, focusing on the audience-tuning process in which speakers adapt their messages to match an audience's attitudes. they detail the conditions — particularly epistemic and relational motivations — under which this tuning produces genuine shared-reality experience that shapes communicators' own memories and evaluations.
 
-full citation: [@echterhoff2018shared]
-
 ---
 
 # topic and thesis

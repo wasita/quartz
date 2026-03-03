@@ -14,8 +14,6 @@ authors: "Stern, Chadly and Ondish, Peter"
 
 stern and ondish review how the pursuit, creation, and maintenance of shared reality underlies important political phenomena. they argue that the desire to share reality shapes political attitudes, that competing representations sustain political conflict, and that shared reality contributes to both social stasis and change.
 
-full citation: [@stern2018political]
-
 ---
 
 # topic and thesis

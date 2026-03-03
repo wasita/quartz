@@ -14,8 +14,6 @@ authors: "Boer, Diana and Fischer, Ronald and Strack, Micha and Bond, Michael H 
 
 boer and colleagues propose and test a musical bonding model in which shared music preferences create interpersonal bonds by signaling value similarity, which in turn drives social attraction. across two laboratory experiments and a dyadic field study, they show that perceived similarity in values — not personality — mediates the link between shared musical taste and social bonding.
 
-full citation: [@boer2011shared]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Griffiths, Thomas L and Chater, Nick and Kemp, Charles and Perfors, Am
 
 griffiths et al. argue for a top-down probabilistic approach to cognition starting from ideal computational solutions. they contrast this with connectionist bottom-up approaches and argue probabilistic models provide greater flexibility for exploring representations and inductive biases.
 
-full citation: [@griffiths2010probabilistic]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Baker, Chris L and Jara-Ettinger, Julian and Saxe, Rebecca and Tenenba
 
 baker et al. present BToM (bayesian theory of mind), a model that jointly infers an agent's beliefs, desires, and percepts from observed movements by inverting a POMDP-based planning model. BToM accurately captures quantitative human mental-state judgments (rbscv = 0.91) across two experiments.
 
-full citation: [@baker2017rational]
-
 ---
 
 # topic and thesis

@@ -14,8 +14,6 @@ authors: "Holt-Lunstad, Julianne and Smith, Timothy B and Baker, Mark and Harris
 
 holt-lunstad et al. meta-analyzed 70 studies showing loneliness, social isolation, and living alone each independently predict premature death, with effect sizes comparable to smoking and obesity.
 
-full citation: [@holt-lunstad2015]
-
 ---
 
 # topic and thesis

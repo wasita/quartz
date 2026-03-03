@@ -14,8 +14,6 @@ authors: "Griffiths, Thomas L and Tenenbaum, Joshua B"
 
 griffiths and tenenbaum propose a hierarchical bayesian framework for causal induction where domain-general inference is guided by domain-specific prior knowledge encoded in abstract causal theories. three components of prior knowledge - ontology, plausibility, functional form - are demonstrated across causal learning paradigms.
 
-full citation: [@griffiths2009theory]
-
 ---
 
 # topic and thesis

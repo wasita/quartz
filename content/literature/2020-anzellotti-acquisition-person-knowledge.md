@@ -14,8 +14,6 @@ authors: "Anzellotti, Stefano and Young, Liane L"
 
 anzellotti and young review how people acquire knowledge about specific individuals, integrating face/voice recognition with person-specific trait and mental-state inference. person knowledge is built through cascading representations linking perceptual individuation to social and semantic knowledge.
 
-full citation: [@anzellotti2020acquisition]
-
 ---
 
 # topic and thesis
